@@ -1,3 +1,4 @@
+
 .grid-container {
     display: grid;
     justify-content: center;
@@ -9,7 +10,7 @@
     grid-gap: 0;
 }
 
-.counter{
+.play{
     display: grid;
     grid-template-columns: repeat(8, 70px);
     grid-template-rows:repeat(8, 70px);
